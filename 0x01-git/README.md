@@ -1,2 +1,1 @@
-My second commit
-My commit
+My first basic git project
